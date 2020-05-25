@@ -1,5 +1,5 @@
 # CS231n-Assignment3-CV-Applications
-This repository contains three Google Colab notebooks, each of which is a part assignment-3 of [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) course by Stanford, Spring 2020.
+This repository contains three Google Colab notebooks, each of which is a part of assignment-3 of [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) course by Stanford, Spring 2020.
 
 I have inclued three questions from the [assignment-3](https://cs231n.github.io/assignments2020/assignment3/), which also serves as applications of Computer Vision algorithms.
 
