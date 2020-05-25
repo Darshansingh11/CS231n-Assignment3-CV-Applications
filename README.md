@@ -7,7 +7,7 @@ I have inclued three questions from the [assignment-3](https://cs231n.github.io/
 2. Neural Style Transfer
 3. Generative Adversarial Networks (GANs)
 
-All the three problems are implemented using the PyTorch framework.
+All the three problems are implemented using the PyTorch framework. I have also attempted the inline questions asked in the notebooks. Feel free to suggest any modifications or suggestions. Also, please let me know if there are any errors/mistakes in my implementations.
 
 You can view the CS231n course notes [here](https://cs231n.github.io/). 
 Also the lecture series of the CS231n can be found below: 
