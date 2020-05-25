@@ -15,4 +15,4 @@ Also the lecture series of the CS231n can be found below:
 * [Spring, 2017 by Justin Johnson, Serena Yeung and Fei-Fei Li](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Winter, 2016 by Andrej Karpathy, Fei-Fei Li, Justin Johnson](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 
-I would also like to thank all the people who are responsible for creating this course and publishing it online. 
+I would also like to thank all the people who are responsible for creating this wonderful course and publishing it online. 
